@@ -1,5 +1,19 @@
 # 🐾 Petique Clinic Management System
 
+> 📌 **Note:** This repository is a personal fork of the original graduation project. Below are the specific core frontend features, state management architecture, and user flows that **I personally developed and engineered**.
+
+---
+
+## 🚀 My Core Contributions & Technical Achievements
+
+* **Service Display & Dynamic Routing:** Developed the scalable structure for fetching and rendering clinic services, including the complex single service details page with dynamic route management.
+* **Reservation System & User Flow:** Implemented the complete front-end reservation and booking flow, ensuring a seamless user experience and strict synchronization between user inputs and backend state.
+* **Dashboard Email Management:** Developed the dedicated management interface and logic within the admin dashboard for handling, tracking, or triggering automated system emails.
+* **Dashboard Reservation Form Validation:** Engineered robust client-side form validations for almost all reservation-related forms inside the dashboard, utilizing advanced control logic to ensure data integrity and prevent faulty submissions.
+* **Content Delivery (Blog Section):** Built the dynamic Blog and article grid section, utilizing state management and clean UI layout principles to present pet care resources beautifully.
+
+---
+
 Petique Clinic is a full-stack veterinary clinic management platform designed to serve pet owners, doctors, administrators, and clinic owners.
 The system manages reservations, vaccinations, services, and products through role-based access and multiple dashboards.
 
