@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 My Core Contributions & Technical Achievements
+##  My Core Contributions & Technical Achievements
 
 * **Service Display & Dynamic Routing:** Developed the scalable structure for fetching and rendering clinic services, including the complex single service details page with dynamic route management.
 * **Reservation System & User Flow:** Implemented the complete front-end reservation and booking flow, ensuring a seamless user experience and strict synchronization between user inputs and backend state.
